@@ -102,6 +102,7 @@ Temporary Tables & Views
 
 
 Folder Structure
+Repository Structure
 SQL-Projects/
 │
 ├── Global-Layoffs-Project/
@@ -114,7 +115,7 @@ SQL-Projects/
 │   ├── parks_and_recreation_adeen.sql
 │   └── README.md
 │
-└── README.md
+└── Main README.md
 
 Author
 Adeen
