@@ -103,6 +103,7 @@ Temporary Tables & Views
 Folder Structure
 
 Folder Structure
+\```
 SQL-Projects/
 │
 ├── Global-Layoffs-Project/
@@ -116,6 +117,7 @@ SQL-Projects/
 │   └── README.md
 │
 └── README.md
+\```
 
 Author
 Adeen
