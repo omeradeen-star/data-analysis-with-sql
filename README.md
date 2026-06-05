@@ -100,8 +100,8 @@ Aggregate Functions
 Stored Procedures & Triggers
 Temporary Tables & Views
 
-
 Folder Structure
+
 SQL-Projects/
 │
 ├── Global-Layoffs-Project/
