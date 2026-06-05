@@ -102,6 +102,7 @@ Temporary Tables & Views
 
 Folder Structure
 
+Folder Structure
 SQL-Projects/
 │
 ├── Global-Layoffs-Project/
